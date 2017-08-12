@@ -14,11 +14,11 @@
   },
   "dependencies": {
     "video.js": "~5.3",
-    "videojs-contrib-ads": "https://github.com/videojs/videojs-contrib-ads/tarball/master"
+    "videojs-contrib-ads": "~5.0.3"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aledefreitas/videojs-ima/tree/fix-ima-not-set-browserify"
+    "url": "https://github.com/googleads/videojs-ima"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
