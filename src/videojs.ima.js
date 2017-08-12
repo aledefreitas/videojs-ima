@@ -1455,6 +1455,5 @@
   registerPlugin('ima', init);
 
   window.ImaPlugin = ImaPlugin;
-
   module.exports = ImaPlugin;
 });
