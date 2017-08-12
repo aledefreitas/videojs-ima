@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/googleads/videojs-ima"
+    "url": "https://github.com/aledefreitas/videojs-ima/tree/fix-ima-not-set-browserify"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
